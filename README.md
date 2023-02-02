@@ -27,7 +27,6 @@ After you're finished please remove all the comments and instructions!
 
 <div align="center">
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
   <h3><b>Microverse README Template</b></h3>
@@ -84,10 +83,7 @@ After you're finished please remove all the comments and instructions!
 
 > Describe between 1-3 key features of the application.
 
-- **[Read leaderboard scores]**
-- **[Create leaderboard scores]**
-- **[Delete leaderboard scores]**
-
+- **[Leaderboard initial static]**
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LIVE DEMO -->
@@ -100,12 +96,12 @@ After you're finished please remove all the comments and instructions!
 
 <!-- GETTING STARTED -->
 
-## 💻 Getting Started <a name="getting-started"></a>
+<!-- ## 💻 Getting Started <a name="getting-started"></a>
 To get a local copy up and running, follow these steps.
 - Clone this repository using the its url and git using the your terminal.
 - cd into the project using the terminal.
 - RUN npm install to install the nodemofulesal.
-- After installing the node_modules, RUN npm start.
+- After installing the node_modules, RUN npm start. -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
